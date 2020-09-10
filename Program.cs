@@ -1,4 +1,4 @@
-﻿using System;
+﻿me using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +28,7 @@ namespace SimpleProgram
              int sum = a + b;
             long product = a * b;
             int diff = a - b;
-            int div = a / b;
+            float div = a / b;
 
             Console.WriteLine("The Sum is " + sum);
             Console.WriteLine("The product is " + product);

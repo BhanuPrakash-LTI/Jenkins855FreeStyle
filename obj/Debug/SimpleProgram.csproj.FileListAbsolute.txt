@@ -5,3 +5,10 @@ F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.csprojAssemblyRefer
 F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.csproj.CoreCompileInputs.cache
 F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.exe
 F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.pdb
+F:\DevOps\jenkins\SimpleProgram\bin\Debug\SimpleProgram.exe.config
+F:\DevOps\jenkins\SimpleProgram\bin\Debug\SimpleProgram.exe
+F:\DevOps\jenkins\SimpleProgram\bin\Debug\SimpleProgram.pdb
+F:\DevOps\jenkins\SimpleProgram\obj\Debug\SimpleProgram.csprojAssemblyReference.cache
+F:\DevOps\jenkins\SimpleProgram\obj\Debug\SimpleProgram.csproj.CoreCompileInputs.cache
+F:\DevOps\jenkins\SimpleProgram\obj\Debug\SimpleProgram.exe
+F:\DevOps\jenkins\SimpleProgram\obj\Debug\SimpleProgram.pdb
